@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\bin\Debug\TrocaDeValores.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\bin\Debug\TrocaDeValores.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\bin\Debug\TrocaDeValores.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.frmTrocaDeValores.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\TrocaDeValores\obj\Debug\TrocaDeValores.pdb
