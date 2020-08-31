@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\bin\Debug\MatriculaDeAluno.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.MatriculaDeAluno.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\MatriculaDeAluno\obj\Debug\MatriculaDeAluno.pdb

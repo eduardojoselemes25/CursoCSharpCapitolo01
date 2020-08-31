@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Form1.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

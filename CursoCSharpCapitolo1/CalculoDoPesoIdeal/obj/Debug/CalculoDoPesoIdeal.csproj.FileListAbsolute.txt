@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\bin\Debug\CalculoDoPesoIdeal.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.formCalculoPesoIdeal.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\CalculoDoPesoIdeal\obj\Debug\CalculoDoPesoIdeal.pdb

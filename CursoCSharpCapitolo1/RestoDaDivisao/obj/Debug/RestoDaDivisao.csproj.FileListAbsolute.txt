@@ -1,0 +1,10 @@
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe.config
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\bin\Debug\RestoDaDivisao.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\bin\Debug\RestoDaDivisao.pdb
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.frmRestoDeDivisao.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.exe
+C:\Users\Eduardo\Documents\Visual Studio 2019\VisualStudio\CursoCSharpCapitolo1\RestoDaDivisao\obj\Debug\RestoDaDivisao.pdb
